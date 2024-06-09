@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @anandmb-git
 - 👀 I’m interested in Backend Development.
-- 🌱 I’m currently learning JavaScript and Django Framework.
+- 🌱 I’m currently learning SQL, C-Sharp and >NET Framework.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me by Contact No - 7717743742
+- 📫 How to reach me by Contact No - 
 
 <!---
 anandmb-git/anandmb-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
